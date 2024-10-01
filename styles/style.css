@@ -333,7 +333,7 @@
 
 .footer {
   box-sizing: border-box;
-  background-color: #1f1f1f ;
+  background-color: #1f1f1f;
   color: #ffffff;
   padding: 60px 80px;
 }
@@ -352,7 +352,7 @@
 
 .footer__logo {
   width: 58px;
-  height:80px
+  height: 80px;
 }
 
 .footer__column-heading {
@@ -360,14 +360,13 @@
 }
 
 .footer__list {
-  /* O código abaixo remove os estilos do navegador padrão para listas */
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
 .footer__list-item {
-  margin-top: 16px; /* colapsa com o margin-bottom do "footer__column-heading" de 20px (nao encontrei outra maneira! */
+  margin-top: 16px;
 }
 
 .footer__column-link {
